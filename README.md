@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbhirajK07
+- 👋 Hi, I’m Abhiraj
 - 👀 I’m interested in FiveM development
 - 🌱 I’m currently learning lua, python, c++
 - 📫 How to reach me abhirajkainth0408@gmail.com
