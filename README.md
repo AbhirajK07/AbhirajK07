@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Abhiraj
-- 👀 I’m interested in web development & App development
-- 🌱 I’m currently learning HTML,CSS,JS
-- 📫 How to reach me abhirajkainth0408@gmail.com / Insta- @abhirajkainth
+- 👋 Hi, I’m Abhiraj Kainth
+- I'm a Computer Applications student 
+- 👀 I'm enthusiastic about web and app development
+- 🌱 I’m currently learning C/C++ and Java Script
+- 📫 You can reach me through abhirajkainth0408@gmail.com / Insta- @abhirajkainth
 
 <!---
 AbhirajK07/AbhirajK07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
