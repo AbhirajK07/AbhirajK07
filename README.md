@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhiraj Kainth
 - I'm a Computer Applications student 
 - 👀 I'm enthusiastic about web and app development
-- 🌱 I’m currently learning C/C++ and Java Script
+- 🌱 I’m currently learning C++ and Python
 - 📫 You can reach me through abhirajkainth0408@gmail.com / Insta- @abhirajkainth
 
 <!---
